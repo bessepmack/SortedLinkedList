@@ -1,7 +1,21 @@
+
 # Project 04: LinkedList Integer Sorter
 ![Java](https://img.shields.io/badge/Java-8-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Platform](https://img.shields.io/badge/platform-Java-lightgrey)
 
+
+## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [How to Run](#how-to-run)
+- [Example Input and Output](#step-3-example-input-and-output)
+- [Generating Javadoc](#step-4-generating-javadoc)
+- [How to Access the Project](#how-to-access-the-project)
+- [Dependencies](#dependencies)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Description
 This project is a command-line Java program that reads a list of integer numbers from user input, stores them in a `LinkedList`, sorts them in ascending order, and prints the sorted list.
@@ -65,7 +79,6 @@ This will create a `docs/` directory containing the generated HTML documentation
 
 ## Contributing
 Pull requests are welcome. For significant changes, please open an issue first to discuss what you would like to change.
-
 
 ## License
 This project is licensed under the MIT License.
